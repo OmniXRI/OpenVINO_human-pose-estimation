@@ -46,4 +46,9 @@ human_pose_estimation_demo -i 輸入影片檔名(*.mp4, *.avi) -m \使用者指�
 若要直接以網路攝影機當作輸入，則將指令改為 -i cam 即可，預設是電腦上第一組攝影機(cam0)，執行後按ESC鍵可結束。
 
 
+測試用影片來源：https://www.youtube.com/watch?v=Y-iKWe-U9bY
+
+為方便大家測試，已提取五小段影片於\test_video路徑下
+
+
 OpenVINO土炮體感控制系統 （完整說明文章待更新...）
