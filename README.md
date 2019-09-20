@@ -51,4 +51,4 @@ human_pose_estimation_demo -i 輸入影片檔名(*.mp4, *.avi) -m \使用者指�
 為方便大家測試，已提取五小段影片於\test_video路徑下
 
 
-OpenVINO土炮體感控制系統 （完整說明文章待更新...）
+完整說明文章：OpenVINO土炮體感控制系統 http://omnixri.blogspot.com/2019/09/openvino_20.html
